@@ -1,0 +1,4 @@
+com\mycompany\proxy\RealImage.class
+com\mycompany\proxy\Image.class
+com\mycompany\proxy\ProxyImage.class
+com\mycompany\proxy\Proxy.class
